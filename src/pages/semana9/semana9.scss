@@ -1,4 +1,4 @@
-page-home {
+page-semana9 {
     ion-card{
         padding-left: 4%;
         padding-right: 4%;
@@ -21,19 +21,8 @@ page-home {
 
      
     }
-    a{
-        text-decoration: none;
+    .button-md{
+        margin-top: 5%;
+        
     }
-    .img_header{
-
-        width: 66px;
-        position:absolute;
-    left: 0;
-    right: 0;
-    margin:0 auto;
-    top:15%;
-    transform:translateY(-50%);
-
-    }
-    
 }
