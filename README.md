@@ -15,4 +15,4 @@ Asi como descargar las presentaciones y lecturas asignadas para cada semana.
 
 ## Authors
 
-* **Hernán García Sánchez** - *Initial work* - [PurpleBooth](https://github.com/Nancho35)
+* **Hernán García Sánchez** - *Initial work* - [Nancho35](https://github.com/Nancho35)
