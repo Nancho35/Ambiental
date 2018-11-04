@@ -14,7 +14,7 @@ Asi como descargar las presentaciones y lecturas asignadas para cada semana.
 
 https://goo.gl/LPpRSB
 
-![Descarga](https://github.com/Nancho35/Ambiental/blob/master/screenshots/qr.jpg)
+![Descarga](https://github.com/Nancho35/Ambiental/blob/master/screenshots/qr.png)
 
 
 ## Deployment
