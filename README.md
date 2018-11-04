@@ -10,6 +10,13 @@ Asi como descargar las presentaciones y lecturas asignadas para cada semana.
 ![Semanas](https://github.com/Nancho35/Ambiental/blob/master/screenshots/2.jpg)
 ![Contenido](https://github.com/Nancho35/Ambiental/blob/master/screenshots/3.jpg)
 
+## Download
+
+https://goo.gl/LPpRSB
+
+![Descarga](https://github.com/Nancho35/Ambiental/blob/master/screenshots/qr.jpg)
+
+
 ## Deployment
 -- npm install
 
