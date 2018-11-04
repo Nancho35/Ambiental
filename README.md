@@ -5,7 +5,7 @@ asi como descargar las presentaciones y lecturas asiganas para cada semana.
 
 ## Imagenes
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Home](https://github.com/Nancho35/Ambiental/blob/master/screenshots/1.jpg)
 
 ## Deployment
 -- npm install
